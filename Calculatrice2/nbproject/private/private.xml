@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/calculatrice2/CalculatriceModel.java</file>
-            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/calculatrice2/CalculatriceModelInterface.java</file>
-            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/calculatrice2/Calculatrice2.java</file>
+            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/Control/CalculatorControlerInterface.java</file>
+            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/model/CalculatorModel.java</file>
+            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/View/CalculatorGUIInterface.java</file>
+            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/View/CalculatorGUI.java</file>
+            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/Control/CalculatorControler.java</file>
+            <file>file:/C:/Users/kbham/Documents/NetBeansProjects/Calculatrice2/src/model/CalculatorModelInterface.java</file>
         </group>
     </open-files>
 </project-private>
